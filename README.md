@@ -22,23 +22,23 @@ The project is divided into 3 case studies with contributions from **Group 5**.
 # 👥 **Team Members & Work Division (According to Official Assignment)**
 
 ## ⭐ **Case Study 01 — Preprocessing**
-|Dataset collection and cleaning |
-|Stemming and Lemmatization |
-|Preprocessing Report & Visualization |
+| Dataset collection and cleaning |
+| Stemming and Lemmatization |
+| Preprocessing Report & Visualization |
 
 ---
 
 ## ⭐ **Case Study 02 — Feature Extraction**
-|BoW and TF-IDF |
-|Word2Vec |
-|GloVe embeddings |
+| BoW and TF-IDF |
+| Word2Vec |
+| GloVe embeddings |
 
 ---
 
 ## ⭐ **Case Study 03 — Classification Algorithms**
-|ANN Model |
-|Genetic Algorithm |
-|Hybrid Model |
+| ANN Model |
+| Genetic Algorithm |
+| Hybrid Model |
 
 ---
 
