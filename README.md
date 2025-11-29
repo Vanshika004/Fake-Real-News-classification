@@ -26,7 +26,7 @@ The project is divided into 3 case studies with contributions from **Group 5**.
 |----------|------|---------------|
 | **21801012023** | Vanshika | Dataset collection and cleaning |
 | **21501012023** | Vaishnavi | Stemming and Lemmatization |
-| **22201012023** | Vidushi Mehra | Preprocess the data |
+| **22201012023** | Vidushi Mehra | Preprocessing Report & Visualization |
 
 ---
 
