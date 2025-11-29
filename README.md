@@ -10,39 +10,47 @@ The workflow covers:
 - Text preprocessing  
 - Stemming & Lemmatization  
 - Feature extraction (BoW, TF-IDF, Word2Vec, GloVe)  
-- Undersampling for balancing dataset  
-- Machine Learning & Deep Learning models  
-- Genetic Algorithm for feature selection  
-- Hybrid (TF-IDF + Word2Vec) ANN model  
+- Undersampling for dataset balancing  
+- ANN model  
+- Genetic Algorithm-based feature selection  
+- Hybrid ANN combining TF-IDF + Word2Vec  
 
-The project is divided among **9 team members**, each contributing a distinct module.
-
----
-
-## 👥 Team Members & Work Division
-
-| Member | Roll No. | Assigned Work |
-|-------|----------|----------------|
-| **1. Vanshika** | — | Dataset loading, cleaning, preprocessing, combining Real & Fake |
-| **2. Vidushi** | 22201012023 | Stemming & Lemmatization on cleaned dataset |
-| **3. (Your name)** | — | Vocabulary analysis & comparison before/after stemming & lemmatization |
-| **4. Twinkle** | 21101012023 | Word2Vec feature extraction |
-| **5. Urvashi** | 21401012023 | BoW + TF-IDF (Uni-grams, Bi-grams) with visualizations |
-| **6. Udiksha** | 21201012023 | GloVe Embeddings + Comparison with Word2Vec |
-| **7. Zoya** | 22901012023 | ANN model with TF-IDF input |
-| **8. Yogita** | 22701012023 | Genetic Algorithm for Feature Selection |
-| **9. __________** | — | Hybrid Model (TF-IDF Selected Features + Word2Vec) |
+The project is divided into 3 case studies with contributions from **Group 5**.
 
 ---
 
-## 📂 Dataset
+# 👥 **Team Members & Work Division (According to Official Assignment)**
 
-We used the **GossipCop Fake News** dataset:
+## ⭐ **Case Study 01 — Preprocessing**
+| Roll No. | Name | Assigned Work |
+|----------|------|---------------|
+| **21801012023** | Vanshika | Dataset collection and cleaning |
+| **21501012023** | Vaishnavi | Stemming and Lemmatization |
+| **22201012023** | Vidushi Mehra | Preprocess the data |
 
-- **gossipcop_real.csv**
-- **gossipcop_fake.csv**
+---
 
-Downloaded directly via GitHub:
+## ⭐ **Case Study 02 — Feature Extraction**
+| Roll No. | Name | Assigned Work |
+|----------|------|---------------|
+| **21401012023** | Urvashi Yadav | BoW and TF-IDF |
+| **21101012023** | Twinkle Kotnala | Word2Vec |
+| **21201012023** | Udiksha Solanki | GloVe embeddings |
+
+---
+
+## ⭐ **Case Study 03 — Classification Algorithms**
+| Roll No. | Name | Assigned Work |
+|----------|------|----------------|
+| **22901012023** | Zoya Rizvi | ANN Model |
+| **21301012023** | Urvashi Singh | Genetic Algorithm |
+| **22701012023** | Yogita | Hybrid Model |
+
+---
+
+# 📂 Dataset
+
+We used the **GossipCop Fake News dataset** via direct GitHub import:
 
 ```python
 real_url = "https://raw.githubusercontent.com/Vanshika004/Fake-Real-News-classification/main/gossipcop_real.csv"
