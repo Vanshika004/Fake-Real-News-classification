@@ -22,29 +22,23 @@ The project is divided into 3 case studies with contributions from **Group 5**.
 # 👥 **Team Members & Work Division (According to Official Assignment)**
 
 ## ⭐ **Case Study 01 — Preprocessing**
-| Roll No. | Name | Assigned Work |
-|----------|------|---------------|
-| **21801012023** | Vanshika | Dataset collection and cleaning |
-| **21501012023** | Vaishnavi | Stemming and Lemmatization |
-| **22201012023** | Vidushi Mehra | Preprocessing Report & Visualization |
+|Dataset collection and cleaning |
+|Stemming and Lemmatization |
+|Preprocessing Report & Visualization |
 
 ---
 
 ## ⭐ **Case Study 02 — Feature Extraction**
-| Roll No. | Name | Assigned Work |
-|----------|------|---------------|
-| **21401012023** | Urvashi Yadav | BoW and TF-IDF |
-| **21101012023** | Twinkle Kotnala | Word2Vec |
-| **21201012023** | Udiksha Solanki | GloVe embeddings |
+|BoW and TF-IDF |
+|Word2Vec |
+|GloVe embeddings |
 
 ---
 
 ## ⭐ **Case Study 03 — Classification Algorithms**
-| Roll No. | Name | Assigned Work |
-|----------|------|----------------|
-| **22901012023** | Zoya Rizvi | ANN Model |
-| **21301012023** | Urvashi Singh | Genetic Algorithm |
-| **22701012023** | Yogita | Hybrid Model |
+|ANN Model |
+|Genetic Algorithm |
+|Hybrid Model |
 
 ---
 
